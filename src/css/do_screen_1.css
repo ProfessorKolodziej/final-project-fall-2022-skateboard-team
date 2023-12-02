@@ -1,0 +1,147 @@
+.page {
+  padding: 12px 14px 34px;
+  background-color: #ffeaf4;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.space-y-40 > *:not(:first-child) {
+  margin-top: 40px;
+}
+.font_1 {
+  font-size: 14px;
+  font-family: MontserratRoman;
+  line-height: 11px;
+  font-weight: 700;
+  color: #000000;
+}
+.text {
+  line-height: 10.5px;
+}
+.group {
+  padding: 0 4px;
+}
+.group_2 {
+  padding-left: 18px;
+  padding-right: 14px;
+}
+.group_3 {
+  padding: 0 24px;
+}
+.space-y-2 > *:not(:first-child) {
+  margin-top: 2px;
+}
+.image {
+  margin-left: 8px;
+  width: 185px;
+  height: 147px;
+}
+.font_2 {
+  font-size: 14px;
+  font-family: MontserratRoman;
+  line-height: 13.5px;
+  font-weight: 700;
+  color: #000000;
+}
+.group_4 {
+  margin-left: 2px;
+  margin-top: 22px;
+}
+.space-y-34 > *:not(:first-child) {
+  margin-top: 34px;
+}
+.font_3 {
+  font-size: 14px;
+  font-family: MontserratRoman;
+  line-height: 17px;
+  color: #000000;
+}
+.image_2 {
+  width: 182px;
+  height: 130px;
+}
+.group_5 {
+  margin-right: 4px;
+  margin-top: 34px;
+}
+.space-y-22 > *:not(:first-child) {
+  margin-top: 22px;
+}
+.image_3 {
+  margin-top: 38px;
+  width: 284px;
+  height: 121px;
+}
+.group_6 {
+  margin-top: 30px;
+  padding-left: 17px;
+  padding-right: 14px;
+}
+.text_2 {
+  line-height: 13px;
+}
+.group_7 {
+  margin-left: 4px;
+  margin-top: 24px;
+}
+.space-y-38 > *:not(:first-child) {
+  margin-top: 38px;
+}
+.image_4 {
+  width: 211px;
+  height: 123px;
+}
+.group_8 {
+  margin-top: 26px;
+  padding: 0 2px;
+}
+.space-y-24 > *:not(:first-child) {
+  margin-top: 24px;
+}
+.image_5 {
+  margin: 48px 6px 0 2px;
+  width: 241px;
+  height: 147px;
+}
+.text_3 {
+  margin-top: 6px;
+}
+.text_4 {
+  margin: 24px 6px 0 4px;
+}
+.group_9 {
+  margin-top: 36px;
+}
+.image_6 {
+  margin-right: 4px;
+  width: 250px;
+  height: 113px;
+}
+.group_10 {
+  margin: 22px 4px 0;
+}
+.group_11 {
+  margin-top: 70px;
+}
+.space-y-20 > *:not(:first-child) {
+  margin-top: 20px;
+}
+.text-wrapper {
+  padding: 18px 0;
+  background-color: #3d8bfd;
+  border-radius: 15px;
+  overflow: hidden;
+  width: 65px;
+}
+.text_5 {
+  color: #000000;
+  font-size: 10px;
+  font-family: MontserratRoman;
+  font-weight: 700;
+  line-height: 7px;
+}
+.text_6 {
+  margin-left: 98px;
+  line-height: 10px;
+}
