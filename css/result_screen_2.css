@@ -1,0 +1,31 @@
+.page {
+  padding: 98px 0 32px;
+  background-color: #c2e9ff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.space-y-212 > *:not(:first-child) {
+  margin-top: 212px;
+}
+.image-wrapper {
+  padding: 122px 0 80px;
+  background-image: url('../../images/69532cfdf2c0a7f93036d73d4ded1b7e.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 295px;
+}
+.image {
+  margin-left: 24px;
+  width: 345px;
+  height: 314px;
+}
+.text {
+  color: #000000;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 10px;
+}
