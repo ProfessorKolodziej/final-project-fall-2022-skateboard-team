@@ -120,3 +120,39 @@ body * {
 a{
 	text-decoration: none;
 }
+@media all and (max-width: 768px){
+	body{
+		width: 98%;
+		margin:auto 1%;
+		height: 100vh;
+		background-color: #ffeaf4;
+	}
+	.group_2{
+		margin-left: 50px;
+	}
+	.group_3{
+		margin-left: 50px;
+	}
+}
+@media (min-width: 769px) and (max-width: 999px) {
+	body{
+		width: 100%;
+		height: 100vh;
+		background-color: #ffeaf4;
+	}
+}
+@media all and (min-width: 1000px){
+	body{
+	background-color: #ffeaf4;
+	
+	}
+	/* .image_2{
+		margin-left: 80px;
+	}
+	.group_2{
+		width: 300px;
+	}
+	.font_2{
+		width: 300px;
+	} */
+}

@@ -9,7 +9,7 @@
 .text {
   color: #000000;
   font-size: 14px;
-  font-family: Inter;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 10.5px;
 }
@@ -20,18 +20,22 @@
 }
 .font_1 {
   font-size: 14px;
-  font-family: MontserratRoman;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   color: #000000;
 }
 .text_2 {
   margin-top: 32px;
   line-height: 13.5px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
 }
 .text_3 {
   margin: 46px 14px 0;
   line-height: 17px;
-  font-weight: unset;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
 }
 .group {
   margin-top: 98px;
@@ -49,10 +53,14 @@
 .text_4 {
   color: #000000;
   font-size: 10px;
-  font-family: MontserratRoman;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
+  font-size: 12px;
   line-height: 7px;
 }
 .text_5 {
   line-height: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
 }

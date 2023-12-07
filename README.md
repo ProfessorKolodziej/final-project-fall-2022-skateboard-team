@@ -2,8 +2,8 @@
 
 ## Description
 
-Please add a brief description of your final project here.
-
+As a place where young people and trendsetters gather, skateboarding
+has become an emerging lifestyle that represents energy and chill. More and more skate clubs and skate parks are appearing to the public. There are lots of guidebooks about skateboarding, and they basically teach players how to master the tricks. So I decided to design a web for beginners.
 ## Project Documentation
 
 - [CM523 Final Project Guidelines &amp; Schedule](https://docs.google.com/document/d/1gvG9_1XYfp5-BVUgCDL9JDaZ3Acm6hHP7lDF3MqXPzY/edit#heading=h.61wsleacz62i)

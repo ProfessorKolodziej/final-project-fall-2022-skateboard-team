@@ -5,8 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>codefun</title>
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/style.css"" />
     <link rel="stylesheet" href="./css/quiz_screen_1.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     
   </head>
   <body>
@@ -16,7 +17,7 @@
         <input type="radio" id="option1" name="option" value="page1"class="section">  
         <span class="self-start font_1 text_2">High</span>
       </div>
-      <div class="flex-row group view space-x-14"onclick="bb()">
+      <div class="flex-row group space-x-14" onclick="bb()">
         
 		<input type="radio" id="option2" name="option" value="page2"class="section">  
         <span class="self-start font_1">Moderate</span>
@@ -26,19 +27,19 @@
         <span class="self-start font_1">Low</span>
       </div>
       <div class="flex-col items-center group_2 space-y-20">
-        <div class="flex-col justify-start items-center text-wrapper"><a href="../injuries_screen_1/injuries_screen_1.html" class="text_3">Next</a></div>
-        <span class="text_4">Home</span>
+        <div class="flex-col justify-start items-center text-wrapper"><a href="./injuries_screen_1.html" class="text_3">Next</a></div>
+        <span class="text_4"onclick="window.location.href='./start_screen_1.html'">Home</span>
       </div>
     </form>
 	<script>
 	function aa(){
-		window.location.href = "../overflow_1/overflow_1.html";  
+		window.location.href = "./result_screen_1.html";  
 	}
 	function bb(){
-		window.location.href = "../overflow_2/overflow_2.html";  
+		window.location.href = "./result_screen_4.html";  
 	}
 	function cc(){
-		window.location.href = "../overflow_3/overflow_3.html";  
+		window.location.href = "./result_screen_3.html";  
 	}
 	</script>  
   </body>

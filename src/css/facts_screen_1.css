@@ -17,15 +17,16 @@
   width: 253.5px;
 }
 .font_1 {
-  font-size: 12px;
-  font-family: MontserratRoman;
-  line-height: 14px;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
+  line-height: 12px;
   color: #000000;
 }
 .font_2 {
-  font-size: 12px;
-  font-family: MontserratRoman;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
   line-height: 14px;
   color: #000000;
 }
@@ -33,8 +34,9 @@
   margin-top: 10px;
 }
 .image {
-  width: 320px;
-  height: 147px;
+  width: 480px;
+  height: 220px;
+  margin-top: -55px;
 }
 .text-wrapper {
   padding: 18px 0;
@@ -45,8 +47,8 @@
 }
 .text {
   color: #000000;
-  font-size: 14px;
-  font-family: Inter;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 11px;
 }
@@ -62,15 +64,15 @@
 }
 .text_2 {
   color: #000000;
-  font-size: 10px;
-  font-family: MontserratRoman;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 7px;
 }
 .text_3 {
   color: #000000;
-  font-size: 14px;
-  font-family: MontserratRoman;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   line-height: 10px;
 }
